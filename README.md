@@ -48,7 +48,8 @@ SOLUTION
 
 ## Expected Outcome
 
-(https://media.giphy.com/media/M4QnlfY2zbpfKEmsfl/giphy.gif)
+![movie](https://media.giphy.com/media/M4QnlfY2zbpfKEmsfl/giphy.gif)
+
 
 ## Objective
 
