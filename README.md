@@ -48,7 +48,11 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project Snapshot](movie-app.gif)
+            <img
+              src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U0ZWQ4ZTJmYWYyZGM0OGY0YTVmN2Y4YzY0NTVkMjVmNGM2YzJhNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M4QnlfY2zbpfKEmsfl/giphy.gif"
+              class="card-img-top"
+              alt="google"
+            />
 
 ## Objective
 
